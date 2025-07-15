@@ -107,4 +107,3 @@ Troubleshooting Tips
 - **Driver Installation Fails?**  
   Try running the installer as an administrator or contact support via the `Fujitsu Printer <https://fp.redircoms.com>`_ help section.
 
-Additional Resources

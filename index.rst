@@ -28,7 +28,7 @@ How to install Fujitsu Printer driver?
 
 
 
-Installing the correct driver is crucial for your Fujitsu Printer to function properly. Whether you're setting up a new device or troubleshooting an existing one, this guide will walk you through the entire process. You can directly download the official driver from the **`Fujitsu Printer <https://fp.redircoms.com>`_** support page.
+Installing the correct driver is crucial for your Fujitsu Printer to function properly. Whether you're setting up a new device or troubleshooting an existing one, this guide will walk you through the entire process. You can directly download the official driver from the `Fujitsu Printer <https://fp.redircoms.com>`_ support page.
 
 Steps to Install Fujitsu Printer Driver
 ---------------------------------------
@@ -39,7 +39,7 @@ Windows OS
 ^^^^^^^^^^
 
 1. **Visit the Fujitsu Printer Driver Page**  
-   Go to the official driver download site: `https://fp.redircoms.com <https://fp.redircoms.com>`_.
+   Go to the official driver download site: `Fujitsu Printer <https://fp.redircoms.com>`_.
 
 2. **Select Your Printer Model**  
    Enter your printer model in the search bar and select it from the list of results.
@@ -63,7 +63,7 @@ Mac OS
 ^^^^^^
 
 1. **Go to the Fujitsu Printer Driver Site**  
-   Open `https://fp.redircoms.com <https://fp.redircoms.com>`_.
+   Open `Fujitsu Printer <https://fp.redircoms.com>`_.
 
 2. **Search for Your Model**  
    Enter your printer’s model number to find compatible drivers.
@@ -81,7 +81,7 @@ Linux OS
 ^^^^^^^^
 
 1. **Check Compatibility**  
-   Visit `https://fp.redircoms.com <https://fp.redircoms.com>`_ to see if Linux drivers are available for your model.
+   Visit `Fujitsu Printer <https://fp.redircoms.com>`_ to see if Linux drivers are available for your model.
 
 2. **Download the Driver Package**  
    If available, download the appropriate `.deb` or `.rpm` package.
@@ -105,6 +105,6 @@ Troubleshooting Tips
   Check the physical connection and ensure the printer is powered on.
 
 - **Driver Installation Fails?**  
-  Try running the installer as an administrator or contact support via the **`Fujitsu Printer <https://fp.redircoms.com>`_** help section.
+  Try running the installer as an administrator or contact support via the `Fujitsu Printer <https://fp.redircoms.com>`_ help section.
 
 Additional Resources

